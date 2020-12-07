@@ -1,0 +1,23 @@
+.header{
+    width:100%;
+    height:150px;
+    padding:5px 0;
+    background-color:#232342;
+    color:#fff;
+}
+
+.logo{
+    text-align:center;
+}
+.logo span{
+    display:block;
+}
+.header button{
+    position:absolute;
+    right:10px;
+    top:10px;
+    background-color:rgba(0,0,0,0);
+    border:none;
+    color:#8080cc;
+    font-weight:700;
+}
