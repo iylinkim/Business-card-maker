@@ -1,0 +1,35 @@
+.login{
+    max-width:700px;
+    width:80%;
+    margin:0 auto;
+    text-align:center;
+    outline:1px solid #232342;
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform:translate(-50%, -50%);
+}
+.login_inner{
+    padding-bottom:25px;
+}
+.login_title{
+    font-size:1.5rem;
+    line-height:90px;
+}
+.login_btn{
+    width:90%;
+    margin:0 auto;
+    background:#fff;
+    border:1px solid #efefef;
+    line-height:45px;
+    font-size:1.1rem;
+    border-radius:50px;
+    margin-bottom:20px;
+    transition:all 0.3s ease;
+    cursor:pointer;
+}
+
+.login_btn:hover{
+    background-color:#b3ccdb;
+    border:1px solid #b3ccdb;
+}
